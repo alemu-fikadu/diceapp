@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="images/dice.jpg" width="230" height="430">
+<img src="images/dice.png" width="230" height="430">
 
 A few resources to get you started if this is your first Flutter project:
 
